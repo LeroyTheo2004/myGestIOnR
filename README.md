@@ -86,3 +86,24 @@ Présentation en image de ma partie :
 
 ![1](https://user-images.githubusercontent.com/129506753/231970064-a2417b80-26b5-4af6-8518-56e1dec1e493.PNG)
 
+![2](https://user-images.githubusercontent.com/129506753/231970195-7ec2260d-18ae-4445-b5c0-f04294d19bec.PNG)
+
+![3](https://user-images.githubusercontent.com/129506753/231970204-c04de36a-918c-4b68-9b37-08ec5fd7291c.PNG)
+
+![4](https://user-images.githubusercontent.com/129506753/231970209-1083a68f-e051-4e11-af05-a9fab6b447c0.PNG)
+
+![5](https://user-images.githubusercontent.com/129506753/231970210-a92d6656-7724-4a8c-b361-bc76ac65fa10.PNG)
+
+![6](https://user-images.githubusercontent.com/129506753/231970213-878db9de-eb96-48cf-aabc-c5bdd3638fc2.PNG)
+
+![7](https://user-images.githubusercontent.com/129506753/231970218-ba5b026a-492f-40a8-9659-a3887dffba7d.PNG)
+
+![8](https://user-images.githubusercontent.com/129506753/231970472-0afe19a4-530f-4697-8f46-51bbd3df16de.PNG)
+
+![9](https://user-images.githubusercontent.com/129506753/231970522-84a87433-284e-4fe1-8ea2-8c8c4d34255f.PNG)
+
+![10](https://user-images.githubusercontent.com/129506753/231970530-fcaf16a7-a506-4e4c-b555-5a80ce6cdf27.PNG)
+
+![11](https://user-images.githubusercontent.com/129506753/231970537-cf2808c0-d608-491c-a328-cbacc46b250b.PNG)
+
+![12](https://user-images.githubusercontent.com/129506753/231970548-233671fb-0e76-4495-bcc4-979848e75f5a.PNG)
