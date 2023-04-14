@@ -89,21 +89,19 @@ Le programme commence par demander le nom de la base de données que vous voulez
 ![1](https://user-images.githubusercontent.com/129506753/231970064-a2417b80-26b5-4af6-8518-56e1dec1e493.PNG)
 
 Ensuite, il demande si vous voulez un utilisateur sql :
-Déroulement de la création de l'utilisateur sql :
 
 ![2](https://user-images.githubusercontent.com/129506753/231970195-7ec2260d-18ae-4445-b5c0-f04294d19bec.PNG)
 
+Déroulement de la création de l'utilisateur sql :
+
 Et la l'installation est terminé mais avant le programme demande si vous êtes un serveur ou une machine :
-
-
-Quand vous choisissez serveur :
 
 ![3](https://user-images.githubusercontent.com/129506753/231970204-c04de36a-918c-4b68-9b37-08ec5fd7291c.PNG)
 
-Quand vous choisissez machine :
+Quand vous choisissez serveur :
 
 ![4](https://user-images.githubusercontent.com/129506753/231970209-1083a68f-e051-4e11-af05-a9fab6b447c0.PNG)
-
+Quand vous choisissez machine :
 Voilà la ce que contient la partie réseau :
 
 ![5](https://user-images.githubusercontent.com/129506753/231970210-a92d6656-7724-4a8c-b361-bc76ac65fa10.PNG)
