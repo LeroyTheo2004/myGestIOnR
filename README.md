@@ -82,25 +82,52 @@ Par la suite, nous avons ajouté l'option tester un DNS dans outils réseau.
 
 Cette partie consiste à la création d'un profil GitHub afin de publier notre projet, avec une présentation complète.
 
-Présentation en image de ma partie :
+Voici ma partie du projet que j'ai faite, si vous voulez voir le partie base de données du projet, une vidéo est disponible, elle montre l'entièreté du projet myGestIOnR.
+
+Le programme commence par demander le nom de la base de données que vous voulez :
 
 ![1](https://user-images.githubusercontent.com/129506753/231970064-a2417b80-26b5-4af6-8518-56e1dec1e493.PNG)
 
+Ensuite, il demande si vous voulez un utilisateur sql :
+Déroulement de la création de l'utilisateur sql :
+
 ![2](https://user-images.githubusercontent.com/129506753/231970195-7ec2260d-18ae-4445-b5c0-f04294d19bec.PNG)
+
+Et la l'installation est terminé mais avant le programme demande si vous êtes un serveur ou une machine :
+
+
+Quand vous choisissez serveur :
 
 ![3](https://user-images.githubusercontent.com/129506753/231970204-c04de36a-918c-4b68-9b37-08ec5fd7291c.PNG)
 
+Quand vous choisissez machine :
+
 ![4](https://user-images.githubusercontent.com/129506753/231970209-1083a68f-e051-4e11-af05-a9fab6b447c0.PNG)
+
+Voilà la ce que contient la partie réseau :
 
 ![5](https://user-images.githubusercontent.com/129506753/231970210-a92d6656-7724-4a8c-b361-bc76ac65fa10.PNG)
 
+Déroulement du script qui teste une IP :
+
 ![6](https://user-images.githubusercontent.com/129506753/231970213-878db9de-eb96-48cf-aabc-c5bdd3638fc2.PNG)
+
+Déroulement du script qui teste un port TCP :
 
 ![7](https://user-images.githubusercontent.com/129506753/231970218-ba5b026a-492f-40a8-9659-a3887dffba7d.PNG)
 
+
+Déroulement du script qui teste les IP actives ou non de la BDD :
+
+
 ![8](https://user-images.githubusercontent.com/129506753/231970472-0afe19a4-530f-4697-8f46-51bbd3df16de.PNG)
 
+
+Déroulement du script qui génère un fichier avec les informations de la BDD que l'utilisateur choisit :
+
 ![9](https://user-images.githubusercontent.com/129506753/231970522-84a87433-284e-4fe1-8ea2-8c8c4d34255f.PNG)
+
+Déroulement du script qui teste un DNS avec la commande "dig" :
 
 ![10](https://user-images.githubusercontent.com/129506753/231970530-fcaf16a7-a506-4e4c-b555-5a80ce6cdf27.PNG)
 
