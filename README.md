@@ -94,41 +94,40 @@ Ensuite, il demande si vous voulez un utilisateur sql :
 
 Déroulement de la création de l'utilisateur sql :
 
+![3](https://user-images.githubusercontent.com/129506753/231970204-c04de36a-918c-4b68-9b37-08ec5fd7291c.PNG)
+
 Et la l'installation est terminé mais avant le programme demande si vous êtes un serveur ou une machine :
 
-![3](https://user-images.githubusercontent.com/129506753/231970204-c04de36a-918c-4b68-9b37-08ec5fd7291c.PNG)
+![4](https://user-images.githubusercontent.com/129506753/231970209-1083a68f-e051-4e11-af05-a9fab6b447c0.PNG)
 
 Quand vous choisissez serveur :
 
-![4](https://user-images.githubusercontent.com/129506753/231970209-1083a68f-e051-4e11-af05-a9fab6b447c0.PNG)
-Quand vous choisissez machine :
-Voilà la ce que contient la partie réseau :
-
 ![5](https://user-images.githubusercontent.com/129506753/231970210-a92d6656-7724-4a8c-b361-bc76ac65fa10.PNG)
 
-Déroulement du script qui teste une IP :
+Quand vous choisissez machine :
 
 ![6](https://user-images.githubusercontent.com/129506753/231970213-878db9de-eb96-48cf-aabc-c5bdd3638fc2.PNG)
 
-Déroulement du script qui teste un port TCP :
+Voilà la ce que contient la partie réseau :
 
 ![7](https://user-images.githubusercontent.com/129506753/231970218-ba5b026a-492f-40a8-9659-a3887dffba7d.PNG)
 
-
-Déroulement du script qui teste les IP actives ou non de la BDD :
-
+Déroulement du script qui teste une IP :
 
 ![8](https://user-images.githubusercontent.com/129506753/231970472-0afe19a4-530f-4697-8f46-51bbd3df16de.PNG)
 
-
-Déroulement du script qui génère un fichier avec les informations de la BDD que l'utilisateur choisit :
+Déroulement du script qui teste un port TCP :
 
 ![9](https://user-images.githubusercontent.com/129506753/231970522-84a87433-284e-4fe1-8ea2-8c8c4d34255f.PNG)
 
-Déroulement du script qui teste un DNS avec la commande "dig" :
+Déroulement du script qui teste les IP actives ou non de la BDD :
 
 ![10](https://user-images.githubusercontent.com/129506753/231970530-fcaf16a7-a506-4e4c-b555-5a80ce6cdf27.PNG)
 
+Déroulement du script qui génère un fichier avec les informations de la BDD que l'utilisateur choisit :
+
 ![11](https://user-images.githubusercontent.com/129506753/231970537-cf2808c0-d608-491c-a328-cbacc46b250b.PNG)
+
+Déroulement du script qui teste un DNS avec la commande "dig" :
 
 ![12](https://user-images.githubusercontent.com/129506753/231970548-233671fb-0e76-4495-bcc4-979848e75f5a.PNG)
