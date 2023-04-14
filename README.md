@@ -81,3 +81,8 @@ Par la suite, nous avons ajouté l'option tester un DNS dans outils réseau.
 ### Partie 5 – Gestion des versions et publications
 
 Cette partie consiste à la création d'un profil GitHub afin de publier notre projet, avec une présentation complète.
+
+Présentation en image de ma partie :
+
+![1](https://user-images.githubusercontent.com/129506753/231970064-a2417b80-26b5-4af6-8518-56e1dec1e493.PNG)
+
